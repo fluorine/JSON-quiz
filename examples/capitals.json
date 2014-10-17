@@ -1,0 +1,17 @@
+{"quiz": {
+    "subject": "Cities and their countries",
+    "description": "This quiz  cities to their countries.",
+    "options": {
+        "capitals": ["Caracas", "Rome", "Washington DC"],
+        "countries": ["Italy", "United States", "Venezuela"]
+    },
+
+    "questions": [
+        {"question": "What is the capital of the United States?",
+            "options": "capitals", "answer": "Washington DC"},
+        {"question": "Caracas city is the capital of which country?",
+            "options": "countries", "answer": "Venezuela"},
+        {"question": "Rome is the capital city of what country?",
+            "options": "countries", "answer": "Italy"},
+    ]
+}}

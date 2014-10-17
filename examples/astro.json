@@ -1,0 +1,20 @@
+{"quiz": {
+    "subject": "Basic astronomy",
+    "description": "This test contains questions about planets, moons and other subjects on astronomy.",
+    "options": {
+        "planets": ["mercury", "venus", "earth", "mars"],
+        "colors": ["red", "blue", "white"],
+        "moons": ["europa", "io", "enceladus"]
+    },
+
+    "questions": [
+        {"question": "What color is Neptune?",
+            "options": "colors", "answer": "blue"},
+        {"question": "What planet is closer to the sun?",
+            "options": "planets", "answer": "mercury"},
+        {"question": "What planet was named as the roman pagan god of war?",
+            "options": "planets", "answer": "mars"},
+        {"question": "Which of the following is a Jupiter's moon?",
+            "options": "moons", "answer": "europa"},
+    ]
+}}
